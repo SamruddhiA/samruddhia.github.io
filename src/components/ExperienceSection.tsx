@@ -46,7 +46,7 @@ const ExperienceSection = () => {
                 Business Solutions Technology Associate
               </p>
               <p className="text-muted-foreground text-sm mt-1">
-                Jul 2020 — Present · Pune, India
+                Jul 2024 — Present · Pune, India
               </p>
 
               <ul className="mt-6 space-y-3">
