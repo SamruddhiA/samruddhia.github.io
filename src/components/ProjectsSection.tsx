@@ -28,7 +28,7 @@ const ProjectsSection = () => {
             Vehicle Detection & Parking Management System
           </h3>
           <p className="text-muted-foreground text-sm leading-relaxed mb-6">
-            Developed a system to ensure security of vehicles in public parking lots and to check the availability of space beforehand to avoid chaos.
+            Developed a system to ensure security of vehicles in public parking lots and to check the availability of space beforehand to avoid chaos. The system incorporates several specialized algorithms, including “feature-based number plate localization” to locate the license plate, “image scissoring” for character segmentation, and statistical feature extraction for character recognition, all tailored to Indian number plates. 
           </p>
 
           <div className="flex flex-wrap gap-3">
