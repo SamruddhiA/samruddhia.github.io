@@ -9,6 +9,7 @@ const skills = [
   { name: "Python", category: "tech" },
   { name: "PostgreSQL", category: "tech" },
   { name: "Version Control", category: "tech" },
+  { name: "Prompt Engineering", category: "tech" },
   { name: "Problem Solving", category: "soft" },
   { name: "Analytical Thinking", category: "soft" },
   { name: "Adaptive Thinking", category: "soft" },
