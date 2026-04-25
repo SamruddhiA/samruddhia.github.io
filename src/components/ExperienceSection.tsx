@@ -2,10 +2,11 @@ import { motion } from "framer-motion";
 import { Briefcase } from "lucide-react";
 
 const bullets = [
-  "Led requirement-gathering sessions with clients to clarify business problems and deliver effective solutions.",
-  "Developed technical solutions that addressed specific business challenges and streamlined client processes.",
-  "Created frontend applications using ReactJS and TypeScript to enhance supply chain and manufacturing capabilities.",
-  "Cultivated relationships with key stakeholders to enhance communication and collaboration across teams and clients.",
+  "Developed and deployed front-end applications using React and TypeScript for enterprise supply chain and manufacturing use cases.",
+  "Built a client-facing dashboard from scratch used by account managers to track supply chain performance and support data-driven business decisions.",
+  "Reduced UI pipeline build time from approximately 10 minutes to 2 minutes by migrating from a legacy custom UI library to modern UI frameworks.",
+  "Deployed and supported frontend applications using AWS CloudFront, CodeBuild, CodePipeline, and Cognito for authentication and pipeline monitoring.",
+  "Contributed to production releases, supported client-facing technical demos, and collaborated with business stakeholders and cross-functional teams to deliver solutions."
 ];
 
 const ExperienceSection = () => {
